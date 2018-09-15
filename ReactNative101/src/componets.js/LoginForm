@@ -1,0 +1,17 @@
+import react, {componets}from 'react';
+import {view,StyleSheet} from 'react-native';
+
+class LoginForm extends componets{
+render(){
+return(
+<View style=></View>);
+}
+	
+}
+const atyles= StyleSheet.create({
+	container:{
+	flex:1;
+	padding:20px;
+	backgroundcolor:#5B
+	}
+})
